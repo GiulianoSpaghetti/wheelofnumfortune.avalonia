@@ -9,7 +9,8 @@ A simple enigmatic program for windows and GNU/linux that allow to find a cookie
 Redo more on http://numeronesoft.ddns.net:8080
 
 Then install wheelofnumfortune.avalonia
-ATTENZIONE:
+
+ATTENTION:
 Avalonia is based on two native libraries libharfbuzzsharp e libskiasharp that aren't free software, so avalonia is not free software.
 
 ## Known bugs
