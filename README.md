@@ -15,4 +15,4 @@ Avalonia is based on two native libraries libharfbuzzsharp e libskiasharp that a
 
 ## Known bugs
 
-On windows the tab is not replaced by spaces, even though it should. To overcome the problem I suggest you copy or cut a tab stop and paste it into the textbox.
+Correct operation is not guaranteed
