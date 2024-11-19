@@ -23,3 +23,4 @@ Avalonia is based on two native libraries libharfbuzzsharp e libskiasharp that a
 
 The multiline bug is resolved, however I see that there are some characters that are not corectly translated from json to system.string, so main features are not guaranteed.
 
+The site on which the app takes it's cookie is changed, now it's allowed only one cookie for session. For changing cookie you have to restart the application.
