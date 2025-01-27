@@ -1,7 +1,7 @@
 A simple enigmatic program for windows and GNU/linux that allow to find a cookie got from internet discorìvering ine letter a time.
 
 ## ATTENTION
-This product is delclared discontinued and replaced by wheelofnumfortune.material
+This product is declared discontinued and replaced by wheelofnumfortune.material
 
 ## Bugs
 
