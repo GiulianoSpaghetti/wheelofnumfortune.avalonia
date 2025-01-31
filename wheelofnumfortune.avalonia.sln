@@ -5,13 +5,7 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wheelofnumfortune.avalonia", "wheelofnumfortune.avalonia\wheelofnumfortune.avalonia\wheelofnumfortune.avalonia.csproj", "{A242A952-82D4-4858-8FC4-F49F764B54AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wheelofnumfortune.avalonia.Android", "wheelofnumfortune.avalonia\wheelofnumfortune.avalonia.Android\wheelofnumfortune.avalonia.Android.csproj", "{F1569453-647A-4617-9762-BC4E3A15B25F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wheelofnumfortune.avalonia.Desktop", "wheelofnumfortune.avalonia\wheelofnumfortune.avalonia.Desktop\wheelofnumfortune.avalonia.Desktop.csproj", "{96C26EFE-752B-43C1-B198-6F9C1F8AB079}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wheelofnumfortune.avalonia.iOS", "wheelofnumfortune.avalonia\wheelofnumfortune.avalonia.iOS\wheelofnumfortune.avalonia.iOS.csproj", "{B28EF1CF-A2D3-409B-962D-217153AFE95E}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wheelofnumfortune.avalonia.Browser", "wheelofnumfortune.avalonia\wheelofnumfortune.avalonia.Browser\wheelofnumfortune.avalonia.Browser.csproj", "{5177B70F-17C2-4CFC-8A12-6231A8E6453E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wheelofnumfortune-setup", "wheelofnumfortune-setup\wheelofnumfortune-setup.csproj", "{CAE0F79B-4F54-490C-9E76-79F270BB3F6F}"
 EndProject
@@ -25,26 +19,10 @@ Global
 		{A242A952-82D4-4858-8FC4-F49F764B54AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A242A952-82D4-4858-8FC4-F49F764B54AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A242A952-82D4-4858-8FC4-F49F764B54AE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1569453-647A-4617-9762-BC4E3A15B25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1569453-647A-4617-9762-BC4E3A15B25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1569453-647A-4617-9762-BC4E3A15B25F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{F1569453-647A-4617-9762-BC4E3A15B25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1569453-647A-4617-9762-BC4E3A15B25F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1569453-647A-4617-9762-BC4E3A15B25F}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{96C26EFE-752B-43C1-B198-6F9C1F8AB079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{96C26EFE-752B-43C1-B198-6F9C1F8AB079}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96C26EFE-752B-43C1-B198-6F9C1F8AB079}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96C26EFE-752B-43C1-B198-6F9C1F8AB079}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B28EF1CF-A2D3-409B-962D-217153AFE95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B28EF1CF-A2D3-409B-962D-217153AFE95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B28EF1CF-A2D3-409B-962D-217153AFE95E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{B28EF1CF-A2D3-409B-962D-217153AFE95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B28EF1CF-A2D3-409B-962D-217153AFE95E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B28EF1CF-A2D3-409B-962D-217153AFE95E}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{5177B70F-17C2-4CFC-8A12-6231A8E6453E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5177B70F-17C2-4CFC-8A12-6231A8E6453E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5177B70F-17C2-4CFC-8A12-6231A8E6453E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5177B70F-17C2-4CFC-8A12-6231A8E6453E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CAE0F79B-4F54-490C-9E76-79F270BB3F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CAE0F79B-4F54-490C-9E76-79F270BB3F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAE0F79B-4F54-490C-9E76-79F270BB3F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU

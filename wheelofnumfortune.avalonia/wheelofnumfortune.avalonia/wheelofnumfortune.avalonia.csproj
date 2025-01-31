@@ -1,9 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
-    <ApplicationIcon>Assets\icon.ico</ApplicationIcon>
   </PropertyGroup>
   
   <ItemGroup>
@@ -11,15 +10,12 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Content Include="Assets\icon.ico" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Avalonia" Version="11.0.11" />
-    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.0.11" />
-    <PackageReference Include="Avalonia.Fonts.Inter" Version="11.0.11" />
-    <PackageReference Include="Avalonia.ReactiveUI" Version="11.0.11" />
+    <PackageReference Include="Avalonia" Version="11.2.3" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.2.3" />
+    <PackageReference Include="Avalonia.Fonts.Inter" Version="11.2.3" />
+    <PackageReference Include="Avalonia.ReactiveUI" Version="11.2.3" />
     <!--Condition below is needed to remove Avalonia.Diagnostics package from build output in Release configuration.-->
-    <PackageReference Condition="'$(Configuration)' == 'Debug'" Include="Avalonia.Diagnostics" Version="$(AvaloniaVersion)" />
+    <PackageReference Condition="'$(Configuration)' == 'Debug'" Include="Avalonia.Diagnostics" Version="11.2.3" />
+    <PackageReference Include="DynamicData" Version="9.1.1" />
   </ItemGroup>
 </Project>

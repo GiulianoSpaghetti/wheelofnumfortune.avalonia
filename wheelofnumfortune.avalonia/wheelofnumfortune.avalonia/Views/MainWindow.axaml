@@ -6,7 +6,7 @@
         xmlns:views="clr-namespace:wheelofnumfortune.avalonia.Views"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="wheelofnumfortune.avalonia.Views.MainWindow"
-        Icon="/Assets/icon.ico"
+        Icon="/Assets/avalonia-icon.ico"
         Title="wheelofnumfortune.avalonia">
         <views:MainView />
 </Window>

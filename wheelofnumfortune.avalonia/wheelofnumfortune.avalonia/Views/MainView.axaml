@@ -20,7 +20,7 @@
 		<Button x:Name="btnDiscover" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Discover letter" Click="DiscoverLetter_Click" IsEnabled="False"/>
 		<Label HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="lblStatus"/>
 		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >ⓒ Giulio Sorrentino 2024, some right reserved</TextBlock>
-		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >Version 0.1 based on avalonia 11.0.11</TextBlock>
+		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >Version 0.3 based on avalonia 11.2.3</TextBlock>
 		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >A simple fortune discover for android, Windows and GNU/Linux.</TextBlock>
 		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >This app is under GPL v3 or, in your humble opinion, any later version</TextBlock>
 		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >https://github.com/numerunix/wheelofnumfortune.avalonia</TextBlock>
